@@ -1,6 +1,6 @@
 # QaApiTester
 
-**TODO: Add description**
+Suite de Testes de API Positivos e Negativos, com fins de aprendizado dos fundamentos de testes em Elixir com ExUnit.
 
 ## Installation
 
